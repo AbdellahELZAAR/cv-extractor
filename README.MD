@@ -3,18 +3,33 @@ Description
 
 CV Extractor est une application entièrement développée en Python permettant d’extraire automatiquement les informations clés d’un CV : Prénom, Nom, Email, Téléphone et Diplôme.
 
+
 Le projet se compose de :
-un backend FastAPI pour le traitement et l’extraction des données, un frontend Streamlit pour l’interface utilisateur, et peut être lancé localement ou via Docker.
+
+un backend FastAPI pour le traitement et l’extraction des données,
+
+un frontend Streamlit pour l’interface utilisateur, 
+
+et peut être lancé localement ou via Docker.
 
 📑 Sommaire
+
 Structure du projet
+
 Partie A – Backend (FastAPI)
+
 Partie B – Pipeline d’extraction
+
 Partie C – Frontend (Streamlit)
+
 Partie D – Docker
+
 Installation locale
+
 Lancement Docker
+
 Tests unitaires
+
 Exemples d’API
 
 
